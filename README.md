@@ -7,7 +7,7 @@
 - 🎓 Computer Science student passionate about building real-world applications  
 - 💻 Focused on **Frontend Development (React, Next.js, TypeScript)**  
 - 🛠️ Currently working on full-stack projects with **Node.js, PostgreSQL, Supabase**  
-- 📚 Learning **Software Engineering, Data Analysis (MATLAB), and System Design**  
+- 📚 Learning **Software Engineering, Data Analysis, and System Design**  
 - 🚀 Goal: Become a professional **Frontend Engineer**  
 
 ---
