@@ -1,16 +1,89 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hubert</h1>
+<h3 align="center">Computer Science Student | Frontend Developer | Problem Solver</h3>
 
-<!--
-**zonyra-hubert/zonyra-hubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 🎓 Computer Science student passionate about building real-world applications  
+- 💻 Focused on **Frontend Development (React, Next.js, TypeScript)**  
+- 🛠️ Currently working on full-stack projects with **Node.js, PostgreSQL, Supabase**  
+- 📚 Learning **Software Engineering, Data Analysis (MATLAB), and System Design**  
+- 🚀 Goal: Become a professional **Frontend Engineer**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+- JavaScript (ES6+)
+- TypeScript
+- Python
+- SQL
+
+### 🌐 Frontend
+- React  
+- Next.js  
+- Tailwind CSS  
+- HTML5 & CSS3  
+
+### 🔧 Backend
+- Node.js  
+- Express.js  
+- PostgreSQL  
+- Supabase  
+
+### 🧰 Tools & Technologies
+- Git & GitHub  
+- Ubuntu  
+- VS Code  
+- Postman  
+- Figma  
+
+---
+
+## 📌 Current Projects
+- 🔹 **Full-stack Web Application** (Next.js + Supabase + Paystack)  
+- 🔹 **Authentication System** (JWT + Express)  
+- 🔹 **Database Design Projects** (ERD, UML, SRS documentation)  
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zonyra-hubert&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zonyra-hubert&theme=radical" alt="streak" />
+</p>
+
+---
+
+## 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonyra-hubert&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+- 📧 Email: danielshubert9@gmail.com 
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🌐 Portfolio: https://hubert-zonyra.netlify.app  
+
+---
+
+## 🧠 What I’m Learning Now
+- Advanced React Patterns  
+- System Design & Architecture  
+- Data Analysis with Python
+- Agile & Software Engineering Practices  
+
+---
+
+## ⚡ Fun Fact
+> I enjoy turning complex problems into simple, scalable solutions.
+
+---
+
+<p align="center">✨ Always learning. Always building. ✨</p>
