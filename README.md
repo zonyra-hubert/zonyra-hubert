@@ -59,11 +59,23 @@
 
 ---
 
-## 📊 Most Used Languages
+---
+
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonyra-hubert&layout=compact&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zonyra-hubert&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 </p>
 
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zonyra-hubert&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zonyra-hubert&theme=radical" alt="streak" />
+</p>
 ---
 
 ## 🤝 Connect With Me
