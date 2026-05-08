@@ -12,34 +12,14 @@
 
 ---
 
+
 ## ⚡ Tech Stack
 
-### 💻 Languages
-- JavaScript (ES6+)
-- TypeScript
-- Python
-- SQL
+<p align="center">
 
-### 🌐 Frontend
-- React  
-- Next.js  
-- Tailwind CSS  
-- HTML5 & CSS3  
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,nodejs,express,postgres,supabase,git,github,ubuntu,vscode,postman,figma&theme=dark" />
 
-### 🔧 Backend
-- Node.js  
-- Express.js  
-- PostgreSQL  
-- Supabase  
-
-### 🧰 Tools & Technologies
-- Git & GitHub  
-- Ubuntu  
-- VS Code  
-- Postman  
-- Figma  
-
----
+</p>
 
 ## 📌 Current Projects
 - 🔹 **Full-stack Web Application** (Next.js + Supabase + Paystack)  
