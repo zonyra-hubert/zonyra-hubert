@@ -17,7 +17,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,nodejs,express,postgres,supabase,git,github,ubuntu,vscode,postman,figma&theme=dark, nodejs" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,nodejs,express,postgres,supabase,git,github,ubuntu,vscode,postman,figma&theme=dark, />
 
 </p>
 
@@ -29,9 +29,7 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zonyra-hubert&show_icons=true&theme=radical" alt="stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zonyra-hubert&theme=radical" alt="streak" />
