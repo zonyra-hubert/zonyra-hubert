@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Hubert</h1>
 <h3 align="center"> Software Engineer | Problem Solver</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Full-Stack+Developer;Always+Learning+New+Technologies" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zonyra-hubert&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-</p>
+</p> -->
 
----
 
 ## 🧑‍💻 About Me
 - 🎓 Computer Science student passionate about building real-world applications  
 - 💻 Focused on **Frontend Development (React, Next.js, TypeScript)**  
 - 🛠️ Currently working on full-stack projects with **Node.js, PostgreSQL, Supabase**  
 - 📚 Learning **Software Engineering, Data Analysis, and System Design**  
-- 🚀 Goal: Become a professional **Frontend Engineer**  
+
 
 ---
 
