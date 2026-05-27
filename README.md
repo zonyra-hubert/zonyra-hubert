@@ -43,13 +43,6 @@
 
 ---
 
-## 📌 Current Projects
-- 🔹 **Full-stack Web Application** (Next.js + Supabase + Paystack)  
-- 🔹 **Authentication System** (JWT + Express)  
-- 🔹 **Database Design Projects** (ERD, UML, SRS documentation)  
-
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zonyra-hubert&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
@@ -67,13 +60,11 @@
 
 ---
 
-## 📊 Most Used Languages
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonyra-hubert&layout=compact&theme=radical" />
-</p>
+</p> -->
 
----
 
 ## 🤝 Connect With Me
 
@@ -86,9 +77,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="https://hubert-zonyra.netlify.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=webstorm" />
-  </a>
+
 </p>
 
 ---
@@ -101,9 +90,6 @@
 
 ---
 
-## ⚡ Fun Fact
-> I enjoy turning complex problems into simple, scalable solutions.
 
----
 
 <h3 align="center">✨ Always learning. Always building. ✨</h3>
