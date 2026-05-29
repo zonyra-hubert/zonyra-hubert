@@ -35,10 +35,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase" />
 </p>
-### 🔧 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase" />
-</p>
+
 
 ### 🧰 Tools & Technologies
 <p>
