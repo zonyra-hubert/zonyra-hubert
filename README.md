@@ -54,8 +54,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zonyra-hubert&show_icons=true&theme=radical" height="170" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=zonyra-hubert&show_icons=true&theme=radical&cache_seconds=1800" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zonyra-hubert&theme=radical" height="170" />
 </p>
 
@@ -70,7 +69,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://gh.linkedin.com/in/zonyra-hubert-05329b305" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
