@@ -61,9 +61,9 @@
 ---
 
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonyra-hubert&layout=compact&theme=radical" />
-</p> -->
+</p> 
 
 
 ## 🤝 Connect With Me
