@@ -2,11 +2,6 @@
 
 I'm a computer science student who likes building things people actually use. Most of my work is on the frontend with React, Next.js and TypeScript, and lately I've been doing more backend work with Node.js and PostgreSQL so I can take projects from idea to deployment on my own.
 
-### Projects
-
-- **[Project Name](https://github.com/zonyra-hubert/repo)**: what it does in one sentence. Built with Next.js, Supabase.
-- **[Project Name](https://github.com/zonyra-hubert/repo)**: what it does in one sentence. Built with React, Node.js, PostgreSQL.
-- **[Project Name](https://github.com/zonyra-hubert/repo)**: what it does in one sentence.
 
 ### Stack
 
